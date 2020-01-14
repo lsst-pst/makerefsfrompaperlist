@@ -109,7 +109,6 @@ editor: Robert Lupton
 title: LSST Calibration Strategy and Pipelines
 
 PSTN-027
-domain: Data Management
 domain: Calibration
 editor: Patrick Ingraham
 title:  Performance of the LSST Calibration Systems
